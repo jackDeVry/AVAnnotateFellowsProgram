@@ -12,9 +12,7 @@
       "type": "event",
       "uuid": "c5ed1092-5101-42ec-9856-abd8f6872ac2",
       "includes": [
-        "media",
-        "annotations",
-        "description"
+        "media"
       ],
       "children": [
         {
@@ -35,7 +33,7 @@
   "created_by": "jackDeVry",
   "title": "Workshop #1",
   "slug": "workshop-1",
-  "updated_at": "2026-11-16T18:18:23.006Z",
+  "updated_at": "2026-11-16T18:18:39.498Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
