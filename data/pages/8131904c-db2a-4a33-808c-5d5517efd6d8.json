@@ -4,7 +4,102 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Welcome to the AVAnnotate Fellows Program! This project brings together workshop recordings to support fellows and coordinators as they develop projects with audiovisual materials."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AVAnnotate allows you to connect timestamped annotations to moments in an audio or video recording, bringing interpretation and context into conversation with the material itself. Throughout the fellowship, participants explore how these annotations can support research, teaching, and public engagement while developing a project for an audience of their choosing."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The recordings collected here provide a starting point and a resource to return to as your project develops. You can follow along with the workshops, pause to try the steps with your own materials, and revisit demonstrations when questions arise. The project also offers an example of how AVAnnotate can organize audiovisual materials for learning."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For fellows, these workshops accompany the process of choosing materials, shaping a question, building a project, and revising it through feedback. For coordinators, they provide a shared resource that can be incorporated into a locally organized fellowship and adapted to the needs of its participants."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As you begin, consider: "
+        },
+        {
+          "text": "What could annotation help someone hear, see, or understand in your recording that they might otherwise miss?",
+          "bold": true
+        },
+        {
+          "text": " Let that question guide both what you build and how you introduce it to your audience."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Workshop #1: Here"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Workshop #2: Here"
         }
       ]
     }
@@ -12,7 +107,7 @@
   "created_at": "2026-11-16T17:58:05.782Z",
   "created_by": "jackDeVry",
   "title": "AVAnnotate Fellows Program",
-  "updated_at": "2026-11-16T18:17:37.177Z",
+  "updated_at": "2026-11-16T18:18:16.251Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
